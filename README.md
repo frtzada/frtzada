@@ -2,7 +2,7 @@
 - 👀 I’m Junior in **Data Science**
 - 🌱 I’m currently learning **Python for Data Analysis, Machine Learning, and Data Visualization**
 - 💞️ I’m looking to collaborate on **data-driven projects, especially those involving predictive analytics and big data**
-- 📫 How to reach me **frtzada@gmail.com** or through [LinkedIn](linkedin.com/in/frtzada)
+- 📫 How to reach me **frtzada@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/frtzada/)
 - ⚡ Fun fact: **I once built a recommendation system for a local library!**
 
 - ## Tech Stack
